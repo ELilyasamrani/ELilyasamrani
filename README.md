@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ELilyasamrani
 - 👀 I’m interested in AI , Data , development and robot making 
 - 🌱 I’m currently learning Big Data, Maths and Computer Science
-- 💞️ I’m looking to collaborate on C++/ Python Projects
-- 📫 How to reach me : My Facebook : Ilyas El Amrani 
+- 💞️ I’m looking to collaborate on C/C++,Python and WebDev (HTML/CSS,PHP,JS) Projects
+- 📫 How to reach me : My Facebook or my LinkedIn : Ilyas El Amrani 
 
 <!---
 ELilyasamrani/ELilyasamrani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
