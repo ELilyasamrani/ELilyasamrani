@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ELilyasamrani
-- 👀 I’m interested in AI , Data , development and robot making 
-- 🌱 I’m currently learning Big Data, Maths and Computer Science
-- 💞️ I’m looking to collaborate on C/C++,Python, Java and WebDev/MobileDev Projects
+- 👀 I’m interested in AI , Data , software development and robot making 
+- 🌱 I’m currently learning Big Data, Data science and Computer Science
+- 💞️ I’m looking to collaborate on data science Projects
 - 📫 How to reach me : My Facebook or my LinkedIn : Ilyas El Amrani 
 
 <!---
