@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ELilyasamrani
-- 👀 I’m interested in AI , Data , software development and robot making 
+- 👋 Hi, I’m @ELilyasamrani, QA and software engineer
+- 👀 I’m interested in AI , Data , software development and QA
 - 🌱 I’m currently learning Big Data, Data science and Computer Science
 - 💞️ I’m looking to collaborate on data science and web projects
 - 📫 How to reach me : My LinkedIn : Ilyas El Amrani 
