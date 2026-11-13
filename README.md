@@ -83,7 +83,7 @@ Currently working at **CGI** in Rennes, delivering high-impact testing solutions
 ## 📜 Certifications
 
 - ✅ **ISTQB Foundation Level v4.0**
-- ⏳ **ISTQB Test Automation Engineer** *(upcoming)*
+- ✅ **ISTQB Test Automation Engineer**
 - ✅ **Google Project Management**
 - ✅ **TOEIC C2** (975/990)
 - ✅ Python Automation & Testing · Performance Testing Foundations · JMeter · and more
