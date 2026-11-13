@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Ilyas El Amrani
 
-### QA & Automation Engineer (SDET) · AI Enthusiast · Based in Rennes, France 🇫🇷
+### QA & Automation Engineer (SDET) · AI Enthusiast · Based in Lyon, France 🇫🇷
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ilyas%20El%20Amrani-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ilyas-elamrani)
 [![Email](https://img.shields.io/badge/Email-elamranilyas%40gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:elamranilyas@gmail.com)
